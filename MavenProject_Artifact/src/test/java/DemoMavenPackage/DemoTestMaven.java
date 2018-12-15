@@ -15,7 +15,7 @@ public class DemoTestMaven {
 		WebDriver dr = new ChromeDriver();
 		dr.get("https://www.facebook.com");
 		System.out.println("Page Title is : " + dr.getTitle());
-		System.out.println("Test Case passed.........-----...........");
+		System.out.println("Test Case passed...-----...........");
 	}
 
 }
